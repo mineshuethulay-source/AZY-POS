@@ -1,0 +1,3 @@
+:HL["/AZY-POS/_next/static/chunks/19nmo_xoqdhp7.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"ZNRUmCPZQz2aIv3nV9Qdr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
